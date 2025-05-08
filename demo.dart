@@ -5,4 +5,6 @@
 
 void main(List<String> args) {
   var number = 0;
+
+  var tinhTong = number + 3;
 }
