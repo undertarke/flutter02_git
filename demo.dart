@@ -9,4 +9,6 @@ void main(List<String> args) {
   var tinhTong = number + 3;
   var tinhHieu = number - 3;
   var aaa = "";
+
+  var abc=0;
 }
