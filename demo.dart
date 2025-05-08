@@ -6,4 +6,6 @@
 void main(List<String> args) {
   var number = 0;
   var tinhHieu = number - 3;
+
+  var abc=0;
 }
