@@ -1,4 +1,8 @@
 // đây là comment . ctrl + J
-// git add .
-// git commit -m "ghi chu"
-// git push
+// B1: git add .
+// B2: git commit -m "[ghi chu]"
+// B3: git push
+
+void main(List<String> args) {
+  var number = 0;
+}
